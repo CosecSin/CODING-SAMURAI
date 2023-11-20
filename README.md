@@ -6,7 +6,7 @@ This project focuses on conducting Exploratory Data Analysis (EDA) on Airbnb lis
 
 # Project Discription
 
-The Project Was Undertaken by me [(Udit Sharma)](https://github.com/CosecSin) under my internship tenure at Coding Samurai. I am extremely grateful for the opportunity to work on this project. I have performed various functions to analyze the data and visualize it and get some insights from it. Thanks Coding Samurai again for providing me this oppotunity to work with you !!!
+The Project Was Undertaken by me [(Udit Sharma)](https://github.com/CosecSin) under my internship tenure at Coding Samurai. I am extremely grateful for the opportunity to work on this project. I have performed various functions to analyze the data and visualize it and get some insights from it. Thanks Coding Samurai again for providing me this opportunity to work with you !!!
 
 Link for the data set 
 👇
