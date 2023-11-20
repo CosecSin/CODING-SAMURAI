@@ -28,9 +28,6 @@ https://www.kaggle.com/datasets/airbnb/seattle
  - Availability of room was in good number in peak season the unavailability also increases. Summer Season has the Highest Listing in all years.
 
  - By observing the highest and lowest points in the data, we can identify that the sales season is during summer. The sales season usually spans from May to September.
-## Authors
-
-- [Udit Sharma](https://github.com/CosecSin)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-sharma-508b69121)
